@@ -1,4 +1,4 @@
-#Word Jumble
+#Word Jumble v1.0
 #
 #The computer picks a random word and "jumbles" it
 #The player has to guess the word
