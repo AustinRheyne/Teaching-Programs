@@ -5,6 +5,7 @@ hair_color = "Brown"
 eye_color = "Blue"
 favorite_soup = "Chicken Noodle"
 favorite_hat = "Trucker"
+favorite_cookie = "White Macadamia Nut"
 
 
 print(f"My name is {first_name} {last_name}")
@@ -15,6 +16,7 @@ print(f"My hair is {hair_color}. My eyes are {eye_color}")
 # CHALLENGE: Print out your favorite soup in a sentence
 print(f"My favorite soup is {favorite_soup}")
 print(f"My favorite hat is a {favorite_hat} hat")
+print(f"My favorite type of cookie is obviously a {favorite_cookie} cookie!")
 
 # Hard Challenge:
 # Create variables for your birth day, month, and year
